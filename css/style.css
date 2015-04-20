@@ -35,7 +35,7 @@
 	{
 		text-decoration: underline;
 	}
-	
+
 	a:hover
 	{
 		text-decoration: none;
@@ -51,18 +51,18 @@
 	.link-list
 	{
 	}
-	
+
 		.link-list li
 		{
 			padding: 0.2em 0 0.2em 0;
 		}
-		
+
 		.link-list li:first-child
 		{
 			padding-top: 0 !important;
 			border-top: 0 !important;
 		}
-		
+
 		.link-list li:last-child
 		{
 			padding-bottom: 0 !important;
@@ -83,13 +83,13 @@
 	.quote-list
 	{
 	}
-	
+
 		.quote-list li
 		{
 			padding: 1em 0 1em 0;
 			overflow: hidden;
 		}
-		
+
 		.quote-list li:first-child
 		{
 			padding-top: 0 !important;
@@ -113,7 +113,7 @@
 				font-size: 1.2em;
 				font-style: italic;
 			}
-			
+
 			.quote-list li span
 			{
 				display: block;
@@ -132,7 +132,7 @@
 			border-top: solid 1px #e0e4e6;
 			border-bottom: solid 1px #b5bec3;
 		}
-	
+
 	.check-list
 	{
 	}
@@ -143,7 +143,7 @@
 			font-size: 1.2em;
 			background: url('images/icon-checkmark.png') 0px 1.05em no-repeat;
 		}
-		
+
 		.check-list li:first-child
 		{
 			padding-top: 0 !important;
@@ -167,14 +167,14 @@
 			border-top: solid 1px #e0e4e6;
 			border-bottom: solid 1px #b5bec3;
 		}
-		
+
 	.feature-image
 	{
 		display: block;
 		margin: 0 0 2em 0;
 		outline: 0;
 	}
-	
+
 		.feature-image img
 		{
 			display: block;
@@ -190,13 +190,13 @@
 		margin: 0 0 1.5em 0;
 		outline: 0;
 	}
-	
+
 		.bordered-feature-image img
 		{
 			display: block;
 			width: 100%;
 		}
-	
+
 	.button-big
 	{
 		display: inline-block;
@@ -240,4 +240,16 @@
 		background-image: -ms-linear-gradient(top, #ce1a00, #ed391b);
 		background-image: -o-linear-gradient(top, #ce1a00, #ed391b);
 		background-image: linear-gradient(top, #ce1a00, #ed391b);
+	}
+
+	.team-pic {
+		border-radius: 100%;
+		width: 100%;
+	}
+
+	#jha {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
 	}
