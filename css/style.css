@@ -247,6 +247,10 @@
 		width: 100%;
 	}
 
+	.issue-title {
+		color: black !important;
+	}
+
 	#jha {
 		display: block;
 		margin-left: auto;
