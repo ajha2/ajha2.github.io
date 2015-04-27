@@ -257,3 +257,18 @@
 		margin-right: auto;
 		width: 50%;
 	}
+
+	.new-list {
+		margin-left: 1em;
+	}
+
+	.new-list-text {
+		margin: 0;
+	}
+
+	#hall-img {
+		width: 60%;
+		margin:auto;
+		margin-bottom: 2em;
+		display: block;
+	}
