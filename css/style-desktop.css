@@ -24,9 +24,9 @@
 
 	#header-wrapper
 	{
-		background: #3B4346 url('images/bg01.jpg');
-		border-bottom: solid 1px #341111;
-		box-shadow: inset 0px -1px 0px 0px #341111;
+		background: #323847 url('images/bg01.jpg');
+		border-bottom: solid 1px #323847;
+		box-shadow: inset 0px -1px 0px 0px #323847;
 		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
 	}
 
@@ -37,7 +37,7 @@
 
 	#features-wrapper
 	{
-		background: #353D40 url('images/bg02.jpg');
+		background: #323847 url('images/bg02.jpg');
 		border-bottom: solid 1px #272e31;
 		padding: 45px 0 45px 0;
 		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
@@ -88,7 +88,7 @@
 
 			#header nav a
 			{
-				color: #c6c8c8;
+				color: #f6f6f6;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
@@ -97,7 +97,7 @@
 
 			#header nav a:hover
 			{
-				color: #f6f8f8;
+				color: #c6c8c8;
 			}
 
 /* Banner */
